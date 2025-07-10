@@ -1,23 +1,23 @@
-# ✊🖐✌ Rock Paper Scissors Game
+#  Rock Paper Scissors Game
 
 A stylish, responsive, and fun Rock Paper Scissors game built with **HTML**, **CSS**, and **JavaScript**.
 
-🎮 You vs Computer  
-💾 Score saved using LocalStorage  
-⚙️ Auto-play mode to let the computer battle itself
+ You vs Computer  
+ Score saved using LocalStorage  
+ Auto-play mode to let the computer battle itself
 
-👉 **[Play it Live](https://sumit-63030.github.io/rock-paper-scissors/)**
+**[Play it Live](https://sumit-63030.github.io/rock-paper-scissors/)**
 
 ---
 
-## 🎯 Features
+##  Features
 
-- 🪨 Rock, 📄 Paper, ✂️ Scissors gameplay
-- 🧠 Computer picks a move randomly
-- 📊 Score tracking using local storage
-- 🔁 Auto Play mode to simulate continuous games
-- 🔄 Score reset with confirmation
-- 🎮 Keyboard controls:  
+-  Rock,  Paper,  Scissors gameplay
+-  Computer picks a move randomly
+-  Score tracking using local storage
+-  Auto Play mode to simulate continuous games
+-  Score reset with confirmation
+-  Keyboard controls:  
   - `r` = rock  
   - `p` = paper  
   - `s` = scissors  
@@ -26,7 +26,7 @@ A stylish, responsive, and fun Rock Paper Scissors game built with **HTML**, **C
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **HTML** – Markup structure
 - **CSS** – Neon gradients, responsive layout, animations
@@ -34,7 +34,7 @@ A stylish, responsive, and fun Rock Paper Scissors game built with **HTML**, **C
 
 ---
 
-## 🧠 Why I Built This
+## Why I Built This
 
 This project helped me practice:
 
@@ -44,6 +44,6 @@ This project helped me practice:
 - Dynamic UI updates
 - Responsive styling
 
-And, honestly, it’s just fun to build games 😄
+And, honestly, it’s just fun to build games 
 
 ---
